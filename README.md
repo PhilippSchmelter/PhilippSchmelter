@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Philipp Schmelter!
 
 🎓 **Computer Science Student** at [TU Dortmund University](https://www.tu-dortmund.de/en/)  
-🔬 **Research Assistant** at [ie3 Institute](https://www.ie3.tu-dortmund.de/)
+🔬 **Scientific Assistant** at [ie3 Institute](https://www.ie3.tu-dortmund.de/)
 
 ---
 
