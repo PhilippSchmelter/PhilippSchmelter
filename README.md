@@ -7,15 +7,15 @@
 
 #### 🚀 About Me
 
-- 💻 I'm passionate about software development, data science, and renewable energy systems.
+- 💻 I'm passionate about software development, data science and machine learning.
 - 📚 Currently diving deep into the realms of algorithms, infrastructure, and system optimization.
-- 🌱 On a journey to contribute to projects that make a real-world impact.
+- 🌱 Committed to building solutions that solve real-world problems.
 
 #### 🛠️ Technologies & Tools
 
-- **Languages:** C++, C, Java, JavaScript, (Python)
+- **Languages:** C++, C, Scala, Java, JavaScript, (Python)
 - **Tools:** Git, Docker, (Kubernetes), Jenkins, JetBrains
-- **Frameworks:** React, (TensorFlow)
+- **Frameworks:** React
 - **Databases:** MySQL, PostgreSQL, MongoDB
 
 #### 📫 Get in Touch
